@@ -1,0 +1,11 @@
+User opens application 
+Splash screen displays with logo
+Redirection to prompt asking questions to determine eligibility/neediness (income, assets, expenses, number of dependents, reasons for applying, how they learned of the service)
+If yes,
+Page redirects to "Terms & Conditions" outlining our legal responsibilties and other information that is legally binding when the user chooses to utilize/access our service(s) to include web-based application
+If no, 
+Referall link is provided encouraging ineligible applicant to recommend a friend to apply
+"Accept/Decline" button appears *only* after a custom CAPTCHA is verified  to deter bots
+Applicant submits valid form of identification (visa, driver's license, passport, birth certificate, SS card) & proof of income (W-2, 1099, etc)
+Application recognizes text from Step 4 & transcribes personal identifiable data to template for State Police Central Repository & federal (FBI NICS) background check submission.
+Notification appears congratulating applicant on applying - message & calendar show requesting applicant to select a time for appointment with a representative to proceed further 
